@@ -1,12 +1,14 @@
 
-# US Domestic Airline Performance Dashboard (2005-2020) using Dash
+# US Domestic Airline Performance Dashboard using Dash
 
+This project was completed as a part of the Honors portion of the [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) Course on [Coursera](https://www.coursera.org/).
 
+Credit to IBM and the Coursera platform for providing the course materials and guidance.
 
 
 ## Objective
 
-As a data analyst, you have been given a task to monitor and report US domestic airline flights performance. Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability.
+My objective as a data analyst is to monitor and report on the performance of US domestic airline flights. The main goal is to analyze the performance of the reporting airline and enhance flight reliability to ultimately improve customer satisfaction and reliability.
 
 Below are the key report items,
 
